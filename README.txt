@@ -3,8 +3,7 @@ then extracts the ASN number and EAN barcode from the ASN number file generated 
 and combines it with the .jpg file of the DB Schenker waybill in the e-mail field.
 
 For the program to work properly:
-1) Place the PDF of the waybill and the PDF of the ASN number in a folder named "pdf".
-2) Rename the ASN file to "1.pdf".
-3) Click "Convert" - The PDF files will be saved as separate pages in .jpg format.
-4) Click on "Cut ASN number" - cuts the ASN number and EAN code separately and saves them as .jpg files.
-5) Click on "Merge" - the ASN files will be merged with the DB Schenker jpg files.
+1) Open the PDF of the waybill and the PDF of the ASN number.
+2) Click "Convert" - The PDF files will be saved as separate pages in .jpg format.
+3) Click on "Cut ASN number" - cuts the ASN number and EAN code separately and saves them as .jpg files.
+4) Click on "Merge" - the ASN files will be merged with the DB Schenker jpg files.
